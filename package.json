@@ -1,0 +1,10 @@
+{
+  "name": "react-build-config",
+  "version": "1.0.0-beta",
+  "description": "A simple configuration for a React App",
+  "main": "serve.js",
+  "repository": "https://github.com/Mehathab/react-build-config.git",
+  "author": "Mehathab Shaik",
+  "license": "MIT",
+  "private": false
+}
